@@ -1,0 +1,107 @@
+img {
+    width: 200px;
+}
+
+#icone-fantasma {
+    width: 100px;
+}
+
+.itens-extremidades {
+    background-color: aqua;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.itens-extremidades2 {
+    background-color: aqua;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.itens-extremidades3 {
+    background-color: aqua;
+    display: flex;
+    justify-content: center; 
+    align-items: center;
+}
+.itens-extremidades4 {
+    background-color: aqua;
+    display: flex;
+    justify-content: right; 
+    align-items: center;
+}
+.itens-extremidades5 {
+    background-color: aqua;
+    display: flex;
+    justify-content: space-between; 
+}
+.itens-2 {
+    display: flex;
+    background-color: yellow;
+}
+.itens-extremidades6 {
+    background-color: aqua;
+    display: flex;
+    justify-content: space-between; 
+}
+.itens-3 {
+    display: flex;
+    gap: 96px;
+    background-color: yellow;
+}
+.itens-extremidades7 {
+    background-color: aqua;
+    display: flex;
+    justify-content: space-between; 
+}
+.itens-4 {
+    display: flex;
+    background-color: yellow;
+}
+.itens-extremidades8 {
+   margin-bottom: 50px;
+    background-color: aqua;
+    display: flex;
+    justify-content: space-around; 
+}
+.itens-5 {
+    display: flex;
+    background-color: yellow;
+}
+.itens-extremidades9 {
+    height: 960px;
+    margin-bottom: 50px;
+    background-color: aqua;
+    display: flex;
+    justify-content: space-around; 
+    flex-direction: column;
+}
+.itens-6 {
+    display: flex;
+    background-color: yellow;
+}
+
+.itens-extremidades10 {
+    margin-bottom: 50px;
+    background-color: pink;
+    display: flex;
+    justify-content: space-between; 
+    flex-direction: column;
+}
+.itens-7 {
+    /* display: flex; */
+    background-color: yellow;
+}
+.itens-8 {
+    display: flex;
+    justify-content: space-between;
+    background-color: yellow;
+}
+.itens-9 {
+    display: flex;
+    justify-content: space-between;
+    background-color: yellow;
+}
+
+
+
